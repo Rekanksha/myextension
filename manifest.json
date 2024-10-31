@@ -1,0 +1,12 @@
+{
+    "name":"IPL Chrome Extension",
+    "version":"1.0.0",
+    "description":"An extension to check IPL cricket match status",
+    "manifest_version":3,
+    "author":"Rekanksha",
+    "action":
+    {
+        "default_popup":"index.html",
+        "default_title":"IPL Chrome Extension"
+    }
+}
